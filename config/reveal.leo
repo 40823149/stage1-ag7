@@ -180,12 +180,13 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
     &lt;p&gt;組員:40823129&amp;nbsp; 姓名:汪昱呈 網站:&lt;a href="https://40823129.github.io/cd2021/"&gt;40823129&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;組員:40823149&amp;nbsp; 姓名:趙偉辰 網站:&lt;a href="https://40823149.github.io/cd2021/"&gt;40823149&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
 &lt;/section&gt;
-&lt;!-- Example of nested vertical slides --&gt;
+
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
  &lt;h2&gt;w2&lt;/h2&gt;
